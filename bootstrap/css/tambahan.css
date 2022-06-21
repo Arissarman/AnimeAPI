@@ -1,0 +1,177 @@
+/* index */
+        body{
+			background: url(../../bahan/gambar/bg.jpg);
+			background-size: 1400px;
+		}
+		.logo{
+			margin-top: 4px;
+			width: 120px;
+			border-radius: 40px;
+		}
+		.logo_kategori{
+			margin-top: -10px;
+			width: 120px;
+			border-radius: 40px;
+		}
+		.navbar li{
+			font-size: 16px;
+		}
+		.header-kategori{
+			font-family: 'Times New Roman', Times, serif;
+			font-size: 30px;
+			background-color: black;
+			border-radius: 20px 20px 0px 0px;
+		}
+		.kategori{
+			border-radius: 20px;
+			margin-top: 50px;
+		}
+		.judul-kategori{
+			font-weight: bold;
+			color: gray;
+		}
+		
+		.lanjut{
+			text-align: right;
+		}
+
+		.lanjut button{
+			font-size: 15px;
+			text-align: right;	
+			background-color: lightslategray;
+		}
+		.isi-kategori{
+			background: rgba(2,2,2,0.5);
+			border-radius: 20px;
+			padding: 40px;
+		}
+		.poster:hover{
+			opacity: 0.2;
+		}
+		.poster{
+			border-radius: 10px;
+			width: 150px;
+			margin: 8px;
+			height: 220px;
+		}
+		
+
+		footer{
+			margin-top: 50px;
+			background-color: rgba(2,2,2,0.8);
+			color: ghostwhite;
+		}
+		.float{
+			float: left;
+			margin-right: 5px;
+		}
+		.icon{
+			width: 40px;
+			height: 40px;
+			margin: 20px 10px 20px 10px;
+			border-radius: 30%;
+		}
+		.icon:hover{
+			margin: -20px 10px 20px 10px;
+		}
+		p{
+			text-align: justify;
+			color: lightgray;
+		}
+		.circle{
+			border-radius: 100%;
+		}
+
+
+		
+
+/* film */
+        .isi{
+			background: rgba(2,2,2,0.5);
+			border-radius: 20px;
+			margin-bottom: 50px;
+            color: white;
+		}
+		video{
+			border-radius: 10px;
+			border: 2px black solid;
+		}
+        .container a{
+			text-decoration: none;
+			color: gold;
+		}
+		.container a:hover{
+			color: aquamarine;
+		}
+		.bold{
+			font-weight: bold;
+			display: inline-block;
+		}
+		.table{
+			margin-bottom: 100px;
+		}
+		.download table{
+			width: 80%;
+			text-align: center;
+			border-collapse: collapse;
+			border-radius: 1em;
+			overflow: hidden;
+		}
+		.download td{
+			padding: 10px;
+		}
+		.download tr:first-child{
+			font-weight: bold;
+			padding: 1em;
+			background: darkblue;
+		}
+		.download tr:last-child{
+			padding: 1em;
+			background: darkblue;
+		}
+
+/* login etc */
+        .row{
+			background-color: rgba(2,2,2,0.5);
+			color: white;
+			border-radius: 10px;
+		}
+		.login .input{
+			border-radius: 10px;
+			color: black;
+			text-align: center;
+			margin: 10px;
+			width: 70%;
+			height: 30px;
+		}
+		form .submit{
+			border-radius: 10px;
+			background-color: darkblue;
+			color: wheat;
+			padding: 7px 50px 7px 50px;
+			margin: 10px;
+		}
+
+        .registrasi table{
+			width: 80%;
+		}
+		.registrasi .input{
+			border-radius: 10px;
+			color: black;
+			text-align: center;
+			margin: 10px;
+			width: 100%;
+			height: 30px;
+		}
+		.registrasi td:first-child{
+			padding-right: 30px;
+		}
+		.registrasi table td:nth-child(3){
+			width: 70%;
+		}
+
+
+
+
+		
+		
